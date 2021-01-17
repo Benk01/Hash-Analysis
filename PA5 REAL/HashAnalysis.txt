@@ -1,0 +1,10 @@
+------------ChainHashing-----------
+Insert duration: 14 seconds
+Search for 177 duration: 0 seconds
+Search for 2000000 duration: 0 seconds
+Erase for 177 duration: 0 seconds
+------------ProbeHashing-----------
+Insert duration: 1 seconds
+Search for 177 duration: 0 seconds
+Search for 2000000 duration: 0 seconds
+Erase for 177 duration: 0 seconds
